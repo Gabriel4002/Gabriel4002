@@ -20,6 +20,8 @@ Estou construindo um portfólio com projetos reais que envolvem bots, APIs intel
 
 ### [projeto-automacao-email](https://github.com/Gabriel4002/projeto-automacao-email)
 Sistema que lê planilhas Excel, gera boletins personalizados, envia e-mails automáticos e registra logs.
+### [automacao-escolar-python](https://github.com/Gabriel4002/automacao-escolar-python)
+Continuação do projeto de automação de emails e leitura de planilhas, agora focando em analise de dados
 
 ---
 

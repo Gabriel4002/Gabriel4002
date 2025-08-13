@@ -7,11 +7,11 @@ Estou construindo um portfólio com projetos reais que envolvem bots, APIs intel
 
 ## 🚀 Tecnologias e ferramentas
 
-- Python (avançado em automação e análise de dados)
+- Python (foco em automação e análise de dados)
 - Automação com planilhas (`openpyxl`)
 - Envio de e-mails automatizados (`smtplib`)
 - Bibliotecas de análise de dados (`pandas`, `matplotlib`)
-- IA generativa com OpenAI
+- Estudando IA generativa utilizando OpenAI, Gemini
 - Controle de versão com Git e GitHub
 
 ---

@@ -27,7 +27,7 @@ Continuação do projeto de automação de emails e leitura de planilhas, agora 
 
 ## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Lobato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-lobato-314096371)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Lobato-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-lobato-314096371)
 
 ---
 

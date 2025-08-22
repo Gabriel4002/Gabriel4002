@@ -16,18 +16,6 @@ Estou construindo um portfólio com projetos reais que envolvem bots, APIs intel
 
 ---
 
-## 📂 Projetos em destaque
-
-### [projeto-automacao-email](https://github.com/Gabriel4002/projeto-automacao-email)
-Sistema que lê planilhas Excel, gera boletins personalizados, envia e-mails automáticos e registra logs.
-### [automacao-escolar-python](https://github.com/Gabriel4002/automacao-escolar-python)
-Continuação do projeto de automação de emails e leitura de planilhas, agora focando em analise de dados
-### [projeto-tcc-etec](https://github.com/Yachmann/ETEC_TCC_REPOSITORIO_2025)
-TCC que conclui juntamente com meu grupo ao término do curso de Desenvolvimento de Sistemas realizado na Etec - Taboão da Serra
-que liga prestadores de serviços a clientes que necessitam de um serviço
-
----
-
 ## 📫 Vamos nos conectar!
 
 Gabriel Lobato  

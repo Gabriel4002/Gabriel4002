@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Lobato!
+# 👋 Gabriel Lobato!
 
 Desenvolvedor Python
 

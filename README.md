@@ -14,7 +14,7 @@ Estou construindo um portfólio com projetos reais que envolvem bots, APIs intel
 - Automação com planilhas (`openpyxl`)
 - Envio de e-mails automatizados (`smtplib`)
 - Bibliotecas de análise de dados (`pandas`, `matplotlib`)
-- Geração de PDFs (`reportlab `)
+- Geração de PDFs (`reportlab`)
 - Banco de Dados (`sqlite`)
 - Biblioteca de GUI (`tkinter`, `kivy`)
 - Estudando IA generativa utilizando OpenAI, Gemini

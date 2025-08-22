@@ -1,5 +1,8 @@
 # 👋 Olá, eu sou Gabriel Lobato!
 
+Desenvolvedor Python
+
+Tenho curso Técnico em Desenvolvimento de Sistemas, feito na ETEC - Taboão da Serra.
 Desenvolvedor em formação focado em **Inteligência Artificial** e **Automação** com Python.  
 Estou construindo um portfólio com projetos reais que envolvem bots, APIs inteligentes, análise de dados e IA generativa usando OpenAI.
 

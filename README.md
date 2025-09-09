@@ -20,7 +20,7 @@ Estou construindo um portfólio com projetos reais que envolvem bots, APIs intel
 <img align="left" alt="Bootstrap" title="Bootstrap" style="margin-right: 5px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Git" title="Git" width="50px" style="margin-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<br/><br/>
+<br/><br/><br/>
 
 - Python (foco em automação e análise de dados)
 - Automação com planilhas (`openpyxl`)

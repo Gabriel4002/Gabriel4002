@@ -3,8 +3,8 @@
 Desenvolvedor Python
 
 Tenho curso Técnico em Desenvolvimento de Sistemas, feito na ETEC - Taboão da Serra. 
-Desenvolvedor em formação focado em **Inteligência Artificial** e **Automação** com Python.  
-Estou construindo um portfólio com projetos reais que envolvem bots, APIs inteligentes, análise de dados e IA generativa usando OpenAI.
+Desenvolvedor em formação focado em **Desenvolver aplicações Full Stack**.  
+Estou construindo um portfólio com projetos reais que envolvem APIs inteligentes, análise de dados, desenvolvimento web, geração de relatórios.
 
 ---
 
@@ -22,14 +22,15 @@ Estou construindo um portfólio com projetos reais que envolvem bots, APIs intel
 <img align="left" alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br/><br/><br/>
 
-- Python (foco em automação e análise de dados)
+- Python (foco em automação, análise de dados e desenvolvimento web)
+- HTML, CSS e JavaScript para desenvolvimento web front-end
+- Frameworks Web (`bootstrap`. `django`)
 - Automação com planilhas (`openpyxl`)
 - Envio de e-mails automatizados (`smtplib`)
 - Bibliotecas de análise de dados (`pandas`, `matplotlib`)
 - Geração de PDFs (`reportlab`)
-- Banco de Dados (`sqlite`)
+- Banco de Dados (`sqlite`, `postgresql`)
 - Biblioteca de GUI (`tkinter`, `kivy`)
-- Estudando IA generativa utilizando OpenAI, Gemini
 - Controle de versão com Git e GitHub
 
 ---
